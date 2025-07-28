@@ -75,6 +75,6 @@ Use this app to quickly generate strong passwords for better online security or 
 
 ## 📄 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use.
 
 
